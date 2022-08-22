@@ -1,4 +1,3 @@
-﻿Integrantes: 
 
 Grupo Beta:
 *************************************
@@ -35,11 +34,12 @@ Breve presentación: Soy Felipe Reina, tengo 32 años,
 me gusta todo el tema de programacion y quiero parender muchos mas.
 
 *************************************
-Nombre : 
-Correo:
-CC:
-Breve presentación:
-
+Nombre : Alexander Lasprilla Acevedo
+Correo: thatti_18@hotmail.com
+CC: 1014206762
+Breve presentación: soy Alexander Lasprilla, vivo en la ciudad de rionegro y tengo 23 años, soy tecnico en mantenimiento de aviones y helicvoptero 
+y actualmente me desempeño como supervisor de mantenimiento, anteriormente e realizado cursos de edicion diseño dibujo y animacion y me gustari 
+a poder juntar todo con la programacion
 *************************************
 Nombre : 
 Correo:
